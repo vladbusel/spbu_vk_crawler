@@ -4,7 +4,7 @@ import random
 import requests
 import time
 
-vk_token = '0da61acf0da61acf0da61acf860eb75aa400da60da61acf6efb30a669036cf0c17b8662'
+vk_token = 'vk_token'
 version = 5.131
 post_fields = ['id', 'owner_id', 'from_id', 'date', 'text', 'comments', 'likes', 'reposts', 'views']
 
